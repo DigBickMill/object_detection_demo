@@ -1,0 +1,26 @@
+<annotation>
+	<folder>project</folder>
+	<filename>20200115_173601.jpg</filename>
+	<path>Z:\project\20200115_173601.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2209</xmin>
+			<ymin>1315</ymin>
+			<xmax>2956</xmax>
+			<ymax>2035</ymax>
+		</bndbox>
+	</object>
+</annotation>
