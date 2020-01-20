@@ -1,0 +1,50 @@
+<annotation>
+	<folder>jpg versions</folder>
+	<filename>DSC_0192_00100.jpg</filename>
+	<path>Z:\luke9\Project work\jpg versions\DSC_0192_00100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6016</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2089</xmin>
+			<ymin>1513</ymin>
+			<xmax>2862</xmax>
+			<ymax>2249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>2832</ymin>
+			<xmax>1452</xmax>
+			<ymax>3559</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3971</xmin>
+			<ymin>2077</ymin>
+			<xmax>4653</xmax>
+			<ymax>2686</ymax>
+		</bndbox>
+	</object>
+</annotation>
